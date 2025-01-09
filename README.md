@@ -18,7 +18,8 @@ A simple calculator app built with SwiftUI, featuring basic arithmetic operation
 ## Screenshots
 
 
-![Alt text](/Users/santiagoaristizabal/Desktop/Screenshot 2025-01-09 at 2.06.37 PM.png)
+
+![Alt text](CalculatorApp/assets/CalculatorApp.png)
 
 ## Installation
 
